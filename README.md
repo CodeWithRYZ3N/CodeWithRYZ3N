@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | React Developer | Web Developer</h3>
 
 <p align="center">
-  <img src="profile.jpg" width="220" style="border-radius:50%;" />
+  <img src="profile.png" width="220" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 BCA Graduate (Final Semester Result Awaited)
+🎓 BCA Graduate
 
 💻 Full Stack Developer passionate about building scalable web applications
 
